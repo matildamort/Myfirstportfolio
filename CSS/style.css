@@ -8,6 +8,8 @@ body {
   padding: 0;
 }
 
+/* NAVBAR SYTLE */
+
 .navbar {
   background-color:none;
   Display: flex;
@@ -68,6 +70,8 @@ color: white;
   background-color: white;
   border-radius: 10px;
 }
+
+/* FLEX GRID CONTAINERS FRONT PAGE */
 
 .grid-container-1 {
   display: grid;
@@ -173,7 +177,6 @@ border: blueviolet;
   display: grid;
   border: 5px solid green;
   grid-template-columns: 100%;
-  grid-template-columns: ;
   
 }
 }
