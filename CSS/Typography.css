@@ -1,0 +1,56 @@
+
+/* Base typography*/
+
+h1 {
+    font-family: source-code-pro, monospace;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: source-code-pro, monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+h3 {
+    font-family: source-code-pro, monospace;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin:0;
+}
+
+p {
+    font-family: montserrat, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(252, 252, 252);
+    margin:0;
+}
+
+
+
+#home-message {
+    text-align: left;
+    font-size: extra-large;
+    margin-bottom: 50px;
+}
+
+#home-second-message {
+    text-align: right;
+    font-size: extra-large;  
+}
+
+.Center-title {
+  text-align: center;
+}
+
+#front-title {
+    font-size: 20px;
+}
