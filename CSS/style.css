@@ -95,7 +95,6 @@ text-align: center;
   margin-left: 1rem;
 }
 
-
 .navbar ul {
   margin: 0;
   padding:0;
@@ -163,15 +162,22 @@ color: white;
   padding-top: 15px;
 }
 
+.what-do-text{
+display: grid;
+
+}
+
 .grid-container-what-do { 
 display: grid;
 border: 5px solid blue;
-grid-template-columns: 35% 65%;
+grid-template-columns: 45% 55%;
 margin-top: 10px;
 }
 
+
+
 #what-do-icon {
-  height: 60px;
+  height: 100px;
   width: auto;
   margin-left: auto;
   display: flex;
@@ -179,7 +185,8 @@ margin-top: 10px;
 }
 
 .what-do-text {
-padding-left: 15px;
+display: table-cell;
+padding: 50px 15px;
 }
 
 .grid-container-skills {
@@ -347,6 +354,13 @@ grid-template-rows: 1;
         grid-template-columns: repeat(6, 80px);
         justify-content: center;
       }
+
+      .grid-container-what-do { 
+        display: grid;
+        border: 5px solid blue;
+        grid-template-columns: 35% 65%;
+        margin-top: 10px;
+        }
 }
 
 
@@ -357,6 +371,23 @@ grid-template-rows: 1;
 #port-pic {
   height: 350px;
 }
+.grid-container-skills {
+  display: grid;
+  grid-template-columns: repeat(6, 16.6%);
+  border: blueviolet;
+  }
+  .footer-nav-block{
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+    }
+
+    .socials {
+      display:grid;
+      grid-template-columns: repeat(6, 80px);
+      justify-content: center;
+    }
+
+
 
 }
 
@@ -366,7 +397,24 @@ grid-template-rows: 1;
   #port-pic {
     height: 400px;
   }
+  .grid-container-skills {
+    display: grid;
+    grid-template-columns: repeat(6, 16.6%);
+    border: blueviolet;
+    }
+
+    .footer-nav-block{
+      display: grid;
+      grid-template-columns: repeat(5, 20%);
+      }
+
+      .socials {
+        display:grid;
+        grid-template-columns: repeat(6, 80px);
+        justify-content: center;
+      }
 }
+
 
 
 
@@ -376,4 +424,23 @@ grid-template-rows: 1;
   #port-pic {
     height: 450px;
   }
+
+  .grid-container-skills {
+    display: grid;
+    grid-template-columns: repeat(6, 16.6%);
+    border: blueviolet;
+    }
+
+    .footer-nav-block{
+      display: grid;
+      grid-template-columns: repeat(5, 20%);
+      }
+
+      .socials {
+        display:grid;
+        grid-template-columns: repeat(6, 80px);
+        justify-content: center;
+      }
+
+     
 }
