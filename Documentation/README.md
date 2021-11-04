@@ -19,6 +19,8 @@ Project is a creation and first coded website to showcase skills and abilities
  - CSS
  - Java.js
 
+ Note: All imagery in this website is Licenced material from Envato Elements. Imagery cannot be re-used or re-distributed outside of this website design. 
+
 
 
 # Sitemap

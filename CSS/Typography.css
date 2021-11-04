@@ -54,3 +54,9 @@ p {
 #front-title {
     font-size: 20px;
 }
+
+#footer-nav {
+    text-decoration: none;
+    padding-bottom: 5px;
+    text-align: center;
+  }
