@@ -8,6 +8,76 @@ body {
   padding: 0;
 }
 
+/* Typography base */
+
+h1 {
+  font-family: source-code-pro, monospace;
+  font-weight: 500;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  margin: 0;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: source-code-pro, monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  margin: 0;
+}
+
+h3 {
+  font-family: source-code-pro, monospace;
+  font-weight: 300;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  margin:0;
+}
+
+h4 {   
+  font-family: source-code-pro, monospace;
+  font-weight: 300;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  margin:0;}
+
+p {
+  font-family: montserrat, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  color: rgb(252, 252, 252);
+  margin:0;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+#home-message {
+  text-align: left;
+  font-size: extra-large;
+  margin-bottom: 50px;
+}
+
+#home-second-message {
+  text-align: right;
+  font-size: extra-large;  
+}
+
+.Center-title {
+text-align: center;
+}
+
+#footer-nav {
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+
+}
+
 /* NAVBAR SYTLE */
 
 .navbar {
@@ -81,9 +151,6 @@ color: white;
   background-repeat: repeat-x;
 }
 
-#port-pic {
-  height: 300px;
-}
 
 .grid-item-3 {
   display: flex;
@@ -99,14 +166,14 @@ color: white;
 .grid-container-what-do { 
 display: grid;
 border: 5px solid blue;
-grid-template-columns: 25% 75%;
+grid-template-columns: 35% 65%;
+margin-top: 10px;
 }
 
 #what-do-icon {
   height: 60px;
   width: auto;
   margin-left: auto;
-  margin-right: auto;
   display: flex;
   vertical-align: middle;
 }
@@ -156,16 +223,15 @@ footer {
 }
 
 .footer-nav-block{
-display: block;
+display: grid;
 grid-template-rows: 1;
 
 }
 
 .socials{
   display:grid;
-  grid-template-columns: repeat(4,25%);
+  grid-template-columns: repeat(6,16.6%);
 }
-
 
 /*mobile design - 480px*/
 
@@ -174,6 +240,29 @@ grid-template-rows: 1;
   .toggle-menu {
     display: flex;
   }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  h4 {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 10px;
+  }
+
+
 
   .navbar-links {
     width:100%;
@@ -224,30 +313,55 @@ grid-template-rows: 1;
 }
 
  #port-pic {
-  height: 200px;
+  height: 150px;
 }
+
+.socials {
+  display:grid;
+  grid-template-columns: repeat(3, 33.3%);
+}
+
 
 }
 
 /* Tablet Design */
-@media (min-width: 769px) {
+@media (max-width: 768px) and (min-width: 480px) {
   
   #port-pic {
     height: 300px;
   }
 
+  .grid-container-skills {
+    display: grid;
+    grid-template-columns: repeat(6, 16.6%);
+    border: blueviolet;
+    }
+
+    .footer-nav-block{
+      display: grid;
+      grid-template-columns: repeat(5, 20%);
+      }
+
+      .socials {
+        display:grid;
+        grid-template-columns: repeat(6, 80px);
+        justify-content: center;
+      }
 }
 
+
+
 /* Laptop Desgin */
-@media (min-width: 900px){
+@media (max-width: 900px) and (min-width: 768px) {
 
 #port-pic {
   height: 350px;
 }
+
 }
 
 /* Desktop design 1025 */
-@media (min-width: 1025px){
+@media (max-width: 1025px) and (min-width: 900px){
 
   #port-pic {
     height: 400px;
@@ -257,10 +371,9 @@ grid-template-rows: 1;
 
 
 /* Extra large screen, TV */
-@media (min-width: 1025px){
+@media (max-width: 1440px) and (min-width: 1025px) {
 
   #port-pic {
     height: 450px;
   }
 }
-
