@@ -124,20 +124,54 @@ grid-template-columns: repeat(2, 50%);
 border: blueviolet;
 }
 
+.skills-flex {
+  display: flex;
+  justify-content: center;
+}
+
+
 #skills {
   height: 100px;
 }
 
+
 /* Footer */
 
-Footer {
+footer {
   display: grid;
-  grid-template-columns: repeat (4,25%);
+  grid-template-columns: repeat(4,25%);
+  margin-top: 10px;
 }
 
-/*mobile design*/
+.footer {
+  display: flex;
+  justify-content: center;
 
-@media (max-width: 600px) {
+}
+#social-media {
+  height: 50px;
+  width: auto;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#footer-nav {
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+#footer-nav {
+  text-decoration: none;
+
+}
+
+/*mobile design - 480px*/
+
+
+@media (max-width: 480px) {
   .toggle-menu {
     display: flex;
   }
@@ -173,19 +207,39 @@ Footer {
     display: flex;
   }
 
-.logo {
+  .logo {
   font-size: 20px;
   align-items: center;
   margin: 5px;
   justify-content: center;
 }
 
-.grid-container-1 {
+  .grid-container-1 {
   display: grid;
   border: 5px solid green;
   grid-template-columns: 100%;
   
 }
+.footer-col{
+  width: 100%;
 }
 
-/* Desktop design */
+}
+
+
+/* Tablet Design */
+@media (max-width: 769px) {}
+
+/* Laptop Desgin */
+@media (max-width: 1025px){}
+
+
+
+
+/* Desktop design 1025 */
+@media (max-width: 1025px){}
+
+
+
+/* Extra large screen, TV */
+@media (min-width: 1025px){}
