@@ -1,0 +1,17 @@
+
+#portrait {
+    height: 130px;
+    width: auto;
+}
+
+.career-about {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+
+}
+
+.portfolio {
+    align-content: center;
+    display: grid;
+    justify-content: center;
+}
