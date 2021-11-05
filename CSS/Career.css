@@ -36,7 +36,7 @@
     }
 
     #career-inforgaphic {
-        height:100px;
+        height: 400px;
         width: auto;
     }
     
@@ -44,29 +44,40 @@
         display: grid;
         margin-right: 5px;
         margin-left:5px;
-        grid-template-columns: 20% 80%;
+        grid-template-columns: 15% 85%;
     }
 
     .career-list{
         display: grid;
         align-content: center;
+        justify-content: center;
+        grid-row: 1 / span 4;
+
         }
 
         .career-list-text{
             align-content: center;
             display: grid;
             padding-left: 10px;
+            grid-column: 2/2;
+            margin-top: 5px;
         }
         
+        #career-title{
+            font-size: 20px;
+        }
+
+        #career-organistion {
+            font-size: 15px;
+        }
+       
         #career-date{
             font-size: 10px;
         }
-        #career-organistion {
-            font-size: 15px;
+
+
 
         }
-    }
-
 
 
 
