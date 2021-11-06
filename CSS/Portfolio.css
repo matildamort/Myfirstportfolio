@@ -1,14 +1,13 @@
 .port-head {
-    display:grid;
-    grid-template-columns: 1fr 1fr;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 0.5em;
-    justify-items: center;
 }
 
 #sample-pic {
     height: 180px;
     width: auto;
-    display: flex
+    display: flex;
 }
 
 .sample-intro {
@@ -17,7 +16,42 @@
 }
 
 #sample-1-img {
-    height: 300px;
+    height: 200px;
+    display: grid;
+}
+
+
+
+.port-one {
+display: grid;
+justify-items: center;
+}
+
+.port-one {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    overflow: hidden;
+    }
+
+    .port-one img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+
+    }
+
+
+
+.port-two {
+    display: grid;
+    justify-items: center;
+        }
+
+.port-three {
+    display: flex;
+    grid-row: 2 /span 3;
+
 }
 
 /*mobile design - 480px*/
@@ -28,8 +62,8 @@
         grid-template-columns: 1fr;
         margin-bottom: 10%;
         text-align: center;
-        margin-left: 2%;
-        margin-right: 2%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
         margin-top: 5%;
     }
 
@@ -38,11 +72,9 @@
         display: flex;
     }
 
-    .port-head {
-        padding: 2%;
-    } 
 
-    
+
+
 
 }
 
