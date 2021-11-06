@@ -1,17 +1,75 @@
 .port-head {
     display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 1em
-} 
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0.5em;
+    justify-items: center;
+}
 
-.port-two {
-display: grid;
-grid-column: 2 / span 2;
+#sample-pic {
+    height: 180px;
+    width: auto;
+    display: flex
+}
+
+.sample-intro {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#sample-1-img {
+    height: 300px;
+}
+
+/*mobile design - 480px*/
+@media (max-width: 480px) {
+
+    .sample-intro {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 10%;
+        text-align: center;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 5%;
+    }
+
+    .sample-into-pic {
+        justify-content: center;
+        display: flex;
+    }
+
+    .port-head {
+        padding: 2%;
+    } 
+
+    
 
 }
 
-.port-three {
-display: grid;
-grid-column: 1 / span 3;
+
+
+/* Tablet Design */
+@media (max-width: 768px) and (min-width: 480px){
+
+
+}
+
+
+/* Laptop Desgin */
+@media (max-width: 900px) and (min-width: 769px) {
+
+
+}
+
+/* Laptop large des Desgin */
+@media (max-width: 1025px) and (min-width: 900px) {
+
+
+}
+
+
+/* Large (TV) Desgin */
+@media (min-width: 1025px) {
+
 
 }
