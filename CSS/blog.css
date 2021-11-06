@@ -1,0 +1,26 @@
+.blog-head {
+    display: flexbox;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: 1fr;
+}
+
+.blog-one{
+    background-color: ivory;
+    margin: 5%;
+    padding: 2%;
+    display: grid;
+    max-width: 100%;
+}
+
+.blog-head h1 {
+    color: black;
+}
+
+.blog-head p {
+    color:black
+}
+
+#blog-img-1 {
+max-width: 100%;
+height: auto;
+}
