@@ -1,0 +1,17 @@
+.port-head {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em
+} 
+
+.port-two {
+display: grid;
+grid-column: 2 / span 2;
+
+}
+
+.port-three {
+display: grid;
+grid-column: 1 / span 3;
+
+}

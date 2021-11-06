@@ -1,0 +1,49 @@
+{
+  "version": "3.36.21289.0",
+  "scenes": [
+    {
+      "title": "Assisting Clients with Activities of Daily Living "
+    }
+  ],
+  "slides": [
+    {
+      "id": "6NJK2b3GfZ2",
+      "title": "Home",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6JqpZmOv0mc",
+      "title": "Welcome",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Gt647zz50f",
+      "title": "How to prepare for a bed bath",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ZiG8THAdYB",
+      "title": "Get ready for the bath",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "66MInMate94",
+      "title": "Get ready for the bath",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5mogHhhdYPM",
+      "title": "How to give a bed bath",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
