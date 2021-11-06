@@ -41,10 +41,15 @@
 
 
 .resume {
-    margin-top: 10%;
+    margin-top: 5%;
     justify-items: center;
     display: grid;
-    margin-bottom: 10%;
+    margin-bottom: 0%;
+    align-content: center;
+}
+
+.career-list-text {
+    display: grid;
     align-content: center;
 }
 
@@ -65,14 +70,14 @@
     }
 
     #career-inforgaphic {
-        height: 400px;
+        height: 500px;
         width: auto;
     }
     
     .career-history{
         display: grid;
         margin-right: 5px;
-        margin-left:5px;
+        margin-left: 5px;
         grid-template-columns: 10% 90%;
     }
 
@@ -115,9 +120,6 @@
 
 
 
-
-
-
 /* Tablet Design */
 @media (max-width: 768px) and (min-width: 480px) {
 
@@ -146,7 +148,8 @@ text-align: center;
 }
 
 #career-head-text {
-    font-size: 80px;
+    font-size: 100px;
+    padding-left: 15px;
 }
 
 
@@ -160,10 +163,11 @@ text-align: center;
 
     .career-history{
         display: grid;
-        margin-right: 15px;
-        margin-left:15px;
+        margin-right: 40px;
+        margin-left: 40px;
         margin-top: 8%;
         grid-template-columns: 15% 85%;
+        
     }
 
     #resume-infographic {
@@ -177,7 +181,7 @@ text-align: center;
 
 
 /* Laptop Desgin */
-@media (max-width: 900px) and (min-width: 768px) {
+@media (max-width: 900px) and (min-width: 769px) {
 
     .career-header {
         display: grid;
@@ -185,7 +189,6 @@ text-align: center;
         text-align: center;
         
         }
-        
         
         
         .portfolio {
@@ -206,7 +209,7 @@ text-align: center;
     
         
         #career-head-text {
-            font-size: 80px;
+            font-size: 120px;
         }
         
         
@@ -220,8 +223,8 @@ text-align: center;
         
             .career-history{
                 display: grid;
-                margin-right: 15px;
-                margin-left:15px;
+                margin-right: 60px;
+                margin-left:60px;
                 margin-top: 8%;
                 grid-template-columns: 15% 85%;
             }
@@ -231,12 +234,30 @@ text-align: center;
                 width: auto;
             }
 
+
+
 }
 
 
 /* Laptop large des Desgin */
 
 @media (max-width: 1025px) and (min-width: 900px) {
+
+    h2 {
+        font-size: 35px;
+    }
+
+    h3 { 
+        font-size: 25px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
 
     .career-header {
         display: grid;
@@ -276,8 +297,8 @@ text-align: center;
         
             .career-history{
                 display: grid;
-                margin-right: 15px;
-                margin-left:15px;
+                margin-right: 80px;
+                margin-left:80px;
                 margin-top: 8%;
                 grid-template-columns: 15% 85%;
             }
@@ -287,12 +308,31 @@ text-align: center;
                 width: auto;
             }
 
+
 }
 
 
 /* Large (TV) Desgin */
 
 @media (min-width: 1025px) {
+
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3 { 
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
 
     .career-header {
         display: grid;
@@ -310,12 +350,12 @@ text-align: center;
         
         .career-about {background-image: url(/Images/Portfolio-face-half.png);
             background-repeat: no-repeat;
-            background-size: 400px auto;
+            background-size: 600px auto;
             background-position-x: right;
             display: grid;
-            grid-template-rows: 400px;
+            grid-template-rows: 600px;
             display: grid;
-            grid-template-columns: 60% 40%;
+            grid-template-columns: 75% 20%;
         
         }
         
@@ -334,17 +374,23 @@ text-align: center;
         
         .career-history{
                 display: grid;
-                margin-right: 15px;
-                margin-left:15px;
+                margin-right:100px;
+                margin-left:100px;
                 margin-top: 8%;
-                grid-template-columns: 15% 85%;
+                grid-template-columns: 10% 90%;
+       
+                
             }
         
             #resume-infographic {
-                height: 250px;
+                height: 275px;
                 width: auto;
             }
 
+            #career-inforgaphic {
+                height: 1300px;
+                width: auto;
+            }
 
 }
 
