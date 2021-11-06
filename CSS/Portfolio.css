@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 0.5em;
+    padding: 25px;
 }
 
 #sample-pic {
@@ -16,8 +17,17 @@
 }
 
 #sample-1-img {
-    height: 200px;
+    width: 100%;
+    height: 100%;
     display: grid;
+}
+
+#sample-2-img {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    object-fit: cover;
+
 }
 
 
@@ -34,15 +44,10 @@ justify-items: center;
     overflow: hidden;
     }
 
-    .port-one img {
-        object-fit: cover;
-        width: 100%;
-        height: 100%;
-
-    }
-
-
-
+.port-one img {
+    width: 100%;
+    height: auto;
+}   
 .port-two {
     display: grid;
     justify-items: center;
@@ -72,9 +77,9 @@ justify-items: center;
         display: flex;
     }
 
-
-
-
+    .port-head {
+    padding: 10px;
+    }
 
 }
 
@@ -82,7 +87,6 @@ justify-items: center;
 
 /* Tablet Design */
 @media (max-width: 768px) and (min-width: 480px){
-
 
 }
 

@@ -1,0 +1,815 @@
+{
+  "version": "3.41.22509.0",
+  "scenes": [
+    {
+      "title": "General Assetts Section 1"
+    },
+    {
+      "title": "Indicators"
+    },
+    {
+      "title": "Trauma and Attachment"
+    },
+    {
+      "title": "Grooming"
+    },
+    {
+      "title": "Topic 6 of 10: Appropriate Conduct with Children"
+    },
+    {
+      "title": "Disclosures and Reporting"
+    },
+    {
+      "title": "Personal Safety"
+    },
+    {
+      "title": "Early Childhood Disclosure"
+    },
+    {
+      "title": "Traffic lights Early Years"
+    },
+    {
+      "title": "Sexual Behaviours "
+    },
+    {
+      "title": "Protective Factors"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Quiz"
+    },
+    {
+      "title": "Quiz"
+    },
+    {
+      "title": "Module 2"
+    },
+    {
+      "title": "Module 4 "
+    },
+    {
+      "title": "Question slides - requires submitt buttons"
+    },
+    {
+      "title": "Safer Classrooms"
+    },
+    {
+      "title": "Safer Classrooms"
+    },
+    {
+      "title": "Safer Classrooms"
+    },
+    {
+      "title": "Z. Archive"
+    },
+    {
+      "title": "CyberSafety "
+    },
+    {
+      "title": "Quiz"
+    },
+    {
+      "title": "Example Work"
+    },
+    {
+      "title": "Topic 3 of 5: G8 Education’s Child Safe Legislative & NQF Requirements"
+    },
+    {
+      "title": "Topic 3 of 5: G8 Education’s Child Safe Legislative & NQF Requirements"
+    },
+    {
+      "title": "Traffic lights GIRLS K-6"
+    },
+    {
+      "title": "Traffic lights GIRLS 7-12"
+    },
+    {
+      "title": "Traffic lights GIRLS Early years"
+    },
+    {
+      "title": "Examples"
+    },
+    {
+      "title": "Topic 1 of 10: Facts and Statistics"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5hSt3ZCd6BC",
+      "title": "1.1 Before you get started Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5wYbCU9UULu",
+      "title": "1.2 Three Piers to prevention",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5qJi5tRWZsz",
+      "title": "1.3 SNS/PNS",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "69O7sRk1Vy1",
+      "title": "1.4 What does prevention look like",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6NkJRTVHo97",
+      "title": "1.5 What is child abuse? - Early Years",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6m4OEgvYA48",
+      "title": "1.5 What is child abuse? Girls Bording",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5ffgrG2LQHE",
+      "title": "1.7 Addressing aggression between children",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "68a8hOaipXg",
+      "title": "1.8 Terminology",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6GE4Pywrifr",
+      "title": "1.9 Myths and facts",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6cJjFVFwqLe",
+      "title": "1.10 CSA is different",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5zIUbk8mPoe",
+      "title": "2.1 Indicators of abuse? Early years",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6fQ3c0mBQHo",
+      "title": "2.1 Indicators of abuse? Girls Boarding",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5YTYcuN8QrW",
+      "title": "2.1 Indicators of abuse? 7- 12",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6fF6VHGTAnP",
+      "title": "Indicators Primary",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5w1t2rkWo7p",
+      "title": "Indicators Secondary",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6qnPqt5tsXA",
+      "title": "3.1 What happens when children experience a traumatic incident?",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6NA1UZxEIBe",
+      "title": "3.2 How does trauma impact young children? Early years",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5f2200jLEpG",
+      "title": "3.3 Potential long-term effects ",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6f9mC33rnuQ",
+      "title": "3.4 Trauma Symptoms",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6bU9BMv8BPY",
+      "title": "3.5 Trauma impact academic performance",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6BfdwjkHvSX",
+      "title": "How does the offender groom?",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6Rt3a4nI6ub",
+      "title": "Indicators of grooming",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6TmQCbAx9gJ",
+      "title": "Indicators of grooming",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6ECdbCf1kWh",
+      "title": "Untitled Slide",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5bwKb98Lzzc",
+      "title": "What is online grooming?",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5rrYQ91K7mc",
+      "title": "How are children at risk online?",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6OH2rlTi5kW",
+      "title": "Risk factors associated with online grooming",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "5Yh1OAvkDFB",
+      "title": "What are professional boundaries?",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "60md8yxaFpj",
+      "title": "Professional Boundaries",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "60DlFeBA0A4",
+      "title": "How can I approach a team member? ",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6WlE0lN2hVy",
+      "title": "Child protection services ",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6kE1vXQUFOE",
+      "title": "What should you include in a report? ",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "5hnTUbwjdyk",
+      "title": "info to report",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6i97K0xCHNm",
+      "title": "Legal considerations",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6m008jMjWGw",
+      "title": "NSW Legal considerations",
+      "scene_index": "6.5"
+    },
+    {
+      "id": "5msohcL9oJU",
+      "title": "Confidentiality",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "5psxhVaF31i",
+      "title": "Disclosure checklist",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "5gu1SmO3yOX",
+      "title": "Barriers to disclosing",
+      "scene_index": "6.8"
+    },
+    {
+      "id": "6JGc9uGjmlf",
+      "title": "Why teach personal safety?",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "6fkZGmj4rnN",
+      "title": "Early childhood Disclosure checklist",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6rDA3gooyGS",
+      "title": "Early Years Myth & Facts",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6nbRog4hjZR",
+      "title": "Risk Factors - indiv, fam & Soc",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "6VY64Mpw2DW",
+      "title": "Untitled Slide",
+      "scene_index": "8.4"
+    },
+    {
+      "id": "5oO4z7zQB6t",
+      "title": "Question 01",
+      "scene_index": "9.1"
+    },
+    {
+      "id": "6SKVYnWM5j4",
+      "title": "Question 02",
+      "scene_index": "9.2"
+    },
+    {
+      "id": "5fyi7WOMNAM",
+      "title": "Question 03",
+      "scene_index": "9.3"
+    },
+    {
+      "id": "6jN7cmiZFAf",
+      "title": "Question 04",
+      "scene_index": "9.4"
+    },
+    {
+      "id": "6oCEfRhbJAx",
+      "title": "Question 05",
+      "scene_index": "9.5"
+    },
+    {
+      "id": "65iclUcESYU",
+      "title": "Question 06",
+      "scene_index": "9.6"
+    },
+    {
+      "id": "6ZehpotK1bh",
+      "title": "Congratulations ",
+      "scene_index": "9.7"
+    },
+    {
+      "id": "5cImdAPSSiQ",
+      "title": "Healthy, problematic, harmfull continuum",
+      "scene_index": "10.1"
+    },
+    {
+      "id": "6cxx7FCkN64",
+      "title": "Appropriate Sexual Behaviour",
+      "scene_index": "10.2"
+    },
+    {
+      "id": "6hhjpbOHzKn",
+      "title": "Spectrum of behaviour",
+      "scene_index": "10.3"
+    },
+    {
+      "id": "64Zd0meahiU",
+      "title": "Untitled Slide",
+      "scene_index": "11.1"
+    },
+    {
+      "id": "6eizbrJjdQm",
+      "title": "Untitled Slide",
+      "scene_index": "11.2"
+    },
+    {
+      "id": "5w8F4mUeY1f",
+      "title": "Untitled Slide",
+      "scene_index": "11.3"
+    },
+    {
+      "id": "5VeBmY55Ywd",
+      "title": "Untitled Slide",
+      "scene_index": "11.4"
+    },
+    {
+      "id": "6JY0XIg8jky",
+      "title": "Untitled Slide",
+      "scene_index": "11.5"
+    },
+    {
+      "id": "6hhI95vFvC3",
+      "title": "Untitled Slide",
+      "scene_index": "11.6"
+    },
+    {
+      "id": "67ojhAgQzVt",
+      "title": "Untitled Slide",
+      "scene_index": "11.7"
+    },
+    {
+      "id": "660gvqK8jLS",
+      "title": "Untitled Slide",
+      "scene_index": "11.8"
+    },
+    {
+      "id": "5Vi5cL1FNxt",
+      "title": "What makes child sexual assault different?",
+      "scene_index": "12.1"
+    },
+    {
+      "id": "5kZChH7ND7s",
+      "title": "Jigsaw",
+      "scene_index": "13.1"
+    },
+    {
+      "id": "65GncnJtF4e",
+      "title": "Untitled Slide",
+      "scene_index": "13.2"
+    },
+    {
+      "id": "5sZx8bwGGE9",
+      "title": "Question 01",
+      "scene_index": "14.1"
+    },
+    {
+      "id": "5cGvx3qRbsx",
+      "title": "Question 02",
+      "scene_index": "14.2"
+    },
+    {
+      "id": "6arCbi4Daez",
+      "title": "Question 03",
+      "scene_index": "14.3"
+    },
+    {
+      "id": "5ZsxxqFrGWv",
+      "title": "Question 05",
+      "scene_index": "14.4"
+    },
+    {
+      "id": "61nyvnybPvs",
+      "title": "Question 12",
+      "scene_index": "14.5"
+    },
+    {
+      "id": "67UC4ecWxHN",
+      "title": "Congratulations ",
+      "scene_index": "14.6"
+    },
+    {
+      "id": "5pA5OFifzbO",
+      "title": "Question 01",
+      "scene_index": "15.1"
+    },
+    {
+      "id": "6AHTGI6ZmXA",
+      "title": "Question 02",
+      "scene_index": "15.2"
+    },
+    {
+      "id": "6Cp7Gqiowfo",
+      "title": "Question 03",
+      "scene_index": "15.3"
+    },
+    {
+      "id": "62Kbt6qZsuI",
+      "title": "Question 04",
+      "scene_index": "15.4"
+    },
+    {
+      "id": "6OkVvJVjd5L",
+      "title": "Question 05",
+      "scene_index": "15.5"
+    },
+    {
+      "id": "6QQZJ4kPeqi",
+      "title": "Question 06",
+      "scene_index": "15.6"
+    },
+    {
+      "id": "5fgX31IqGnp",
+      "title": "Question 07",
+      "scene_index": "15.7"
+    },
+    {
+      "id": "6g8Zq4EisZV",
+      "title": "Question 08",
+      "scene_index": "15.8"
+    },
+    {
+      "id": "6qcUaHF9chY",
+      "title": "Question 09",
+      "scene_index": "15.9"
+    },
+    {
+      "id": "6W6XcFiw1Ck",
+      "title": "Question 10",
+      "scene_index": "15.10"
+    },
+    {
+      "id": "6Zs1WmbRKiP",
+      "title": "Question 11",
+      "scene_index": "15.11"
+    },
+    {
+      "id": "6HqjbnFpQxt",
+      "title": "Question 12",
+      "scene_index": "15.12"
+    },
+    {
+      "id": "5iiOr4S6oZ1",
+      "title": "Question 13",
+      "scene_index": "15.13"
+    },
+    {
+      "id": "6Cg6KlJUvc4",
+      "title": "Congratulations ",
+      "scene_index": "15.14"
+    },
+    {
+      "id": "6SWpaEpdZKe",
+      "title": "Grooming behaviours",
+      "scene_index": "16.1"
+    },
+    {
+      "id": "6QymKPr2TjG",
+      "title": "How to respond to a disclosure",
+      "scene_index": "17.1"
+    },
+    {
+      "id": "6LL5UeQk4Ya",
+      "title": "Putting the Child Protection Code of Conduct in practice",
+      "scene_index": "18.1"
+    },
+    {
+      "id": "5xX0le8jfri",
+      "title": "Putting the Child Protection Code of Conduct in practice",
+      "scene_index": "18.2"
+    },
+    {
+      "id": "5ul9jB39GLW",
+      "title": "Putting the Child Protection Code of Conduct in practice",
+      "scene_index": "18.3"
+    },
+    {
+      "id": "5fuSVWkZDAx",
+      "title": "Risk factors case study",
+      "scene_index": "19.1"
+    },
+    {
+      "id": "5Y17Umd5zwC",
+      "title": "Drag and Drop",
+      "scene_index": "19.2"
+    },
+    {
+      "id": "5WQ2SAFjSlg",
+      "title": "Risk factors case study",
+      "scene_index": "20.1"
+    },
+    {
+      "id": "5diSdsnLO75",
+      "title": "Drag and Drop",
+      "scene_index": "20.2"
+    },
+    {
+      "id": "5w0hkejoppO",
+      "title": "Learning support Indiginous - K-6",
+      "scene_index": "21.1"
+    },
+    {
+      "id": "6ZyZGaD1lVP",
+      "title": "Safer Classroom Interpersonal triggers ",
+      "scene_index": "21.2"
+    },
+    {
+      "id": "6TsxCKCjVwN",
+      "title": "Minimising, removing and responding to triggers",
+      "scene_index": "21.3"
+    },
+    {
+      "id": "6SakmG1PoaS",
+      "title": "Interpersonal Triggers 7-12",
+      "scene_index": "21.4"
+    },
+    {
+      "id": "6Nhu6boCjeL",
+      "title": "Safer Classroom Interpersoanl triggers ",
+      "scene_index": "21.5"
+    },
+    {
+      "id": "65M4gltyvYr",
+      "title": "Myths and Facts",
+      "scene_index": "22.1"
+    },
+    {
+      "id": "66vk5jqNFWZ",
+      "title": "Social Medias",
+      "scene_index": "23.1"
+    },
+    {
+      "id": "5mnwJQHrhxG",
+      "title": "Online Grooming types",
+      "scene_index": "23.2"
+    },
+    {
+      "id": "6SQOsVYh5YU",
+      "title": "Reporting activity",
+      "scene_index": "23.3"
+    },
+    {
+      "id": "6Z1w1N1xOB8",
+      "title": "Teach children to stay safe online",
+      "scene_index": "23.4"
+    },
+    {
+      "id": "631YTctEivv",
+      "title": "Respond to disclosure",
+      "scene_index": "23.5"
+    },
+    {
+      "id": "6OOtWolCPHB",
+      "title": "Motivations to Sext",
+      "scene_index": "23.6"
+    },
+    {
+      "id": "5VVpxuTgDKs",
+      "title": "Question 01",
+      "scene_index": "24.1"
+    },
+    {
+      "id": "5XEbgWKg7OI",
+      "title": "Question 02",
+      "scene_index": "24.2"
+    },
+    {
+      "id": "5qSWqWQVh9j",
+      "title": "Question 03",
+      "scene_index": "24.3"
+    },
+    {
+      "id": "5v9q4fCUjEy",
+      "title": "Question 04",
+      "scene_index": "24.4"
+    },
+    {
+      "id": "65VRtqXfK9L",
+      "title": "Question 05",
+      "scene_index": "24.5"
+    },
+    {
+      "id": "5Z5l8MS0410",
+      "title": "Question 06",
+      "scene_index": "24.6"
+    },
+    {
+      "id": "69sGmrmp4oe",
+      "title": "Congratulations ",
+      "scene_index": "24.7"
+    },
+    {
+      "id": "6aVAfvq1Fuj",
+      "title": "Social Medias",
+      "scene_index": "25.1"
+    },
+    {
+      "id": "6mRliDEhJgb",
+      "title": "Teach children to stay safe online",
+      "scene_index": "25.2"
+    },
+    {
+      "id": "6mZqzk91cHh",
+      "title": "Child protection services ",
+      "scene_index": "25.3"
+    },
+    {
+      "id": "6MkStQCF01J",
+      "title": "Purpose and limitations of Police Checks  and Working with Children Checks (WWCC)?",
+      "scene_index": "25.4"
+    },
+    {
+      "id": "6QfS5SbyJRE",
+      "title": "Untitled Slide",
+      "scene_index": "25.5"
+    },
+    {
+      "id": "5YUZSpAJSWM",
+      "title": "Liability in a child protection context",
+      "scene_index": "26.1"
+    },
+    {
+      "id": "5hNg2429Iw9",
+      "title": "Recent and expected changes to civil laws",
+      "scene_index": "26.2"
+    },
+    {
+      "id": "6Z27eZF92nB",
+      "title": "Liability in a child protection context",
+      "scene_index": "27.1"
+    },
+    {
+      "id": "5a7EHjYc2px",
+      "title": "Recent and expected changes to civil laws",
+      "scene_index": "27.2"
+    },
+    {
+      "id": "5g9ZaU7jnar",
+      "title": "Question 01",
+      "scene_index": "28.1"
+    },
+    {
+      "id": "5Z8BlcGcERI",
+      "title": "Question 2",
+      "scene_index": "28.2"
+    },
+    {
+      "id": "5YXvcxaMBsv",
+      "title": "Question 3",
+      "scene_index": "28.3"
+    },
+    {
+      "id": "6q9Y4rsbNuI",
+      "title": "Congratulations ",
+      "scene_index": "28.4"
+    },
+    {
+      "id": "5zD5zfMffAT",
+      "title": "Question 01",
+      "scene_index": "29.1"
+    },
+    {
+      "id": "6o6NK4Ta3yl",
+      "title": "Question 2",
+      "scene_index": "29.2"
+    },
+    {
+      "id": "6kdrdSIqNQw",
+      "title": "Question 3",
+      "scene_index": "29.3"
+    },
+    {
+      "id": "5bktV9qVZrR",
+      "title": "Congratulations ",
+      "scene_index": "29.4"
+    },
+    {
+      "id": "5fvl3GI7Ukt",
+      "title": "Question 01",
+      "scene_index": "30.1"
+    },
+    {
+      "id": "6qbvgMO4284",
+      "title": "Question 2",
+      "scene_index": "30.2"
+    },
+    {
+      "id": "5tMMAyOukyc",
+      "title": "Question 3",
+      "scene_index": "30.3"
+    },
+    {
+      "id": "6juuZjKyVNK",
+      "title": "Congratulations ",
+      "scene_index": "30.4"
+    },
+    {
+      "id": "5oXtrYuHFU0",
+      "title": "Social Medias",
+      "scene_index": "31.1"
+    },
+    {
+      "id": "6BGIM7O7gbE",
+      "title": "Untitled Slide",
+      "scene_index": "31.2"
+    },
+    {
+      "id": "63d7JtXEVnO",
+      "title": "1.6 Physical harm inflicted by peers ",
+      "scene_index": "31.3"
+    },
+    {
+      "id": "5UsoZu0TV8z",
+      "title": "Motivations to Sext",
+      "scene_index": "31.4"
+    },
+    {
+      "id": "5t6KE18bBQh",
+      "title": "Reporting activity",
+      "scene_index": "31.5"
+    },
+    {
+      "id": "6BsmDSIox1n",
+      "title": "How is child sexual assault different? ",
+      "scene_index": "32.1"
+    },
+    {
+      "id": "6oeIClI9YpQ",
+      "title": "Untitled Slide",
+      "scene_index": "33.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
