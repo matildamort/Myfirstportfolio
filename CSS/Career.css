@@ -31,6 +31,7 @@
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  margin-top: 20px;
   cursor: pointer;
   background-image: url(/Images/granient-pink-swatch.jpg);
   background-repeat: no-repeat;
@@ -38,9 +39,12 @@
     
 }
 
+
 .resume {
     margin-top: 10%;
-    justify-content: center;
+    justify-items: center;
+    display: grid;
+    margin-bottom: 10%;
     align-content: center;
 }
 
@@ -101,15 +105,9 @@
         }
 
         #resume-infographic {
-            height: 150px;
+            height: 120px;
             width: auto;
             margin-bottom: 30px;
-        }
-        .resume {
-            margin-top: 10%;
-            justify-items: center;
-            display: grid;
-            margin-bottom: 10%;
         }
         
 
@@ -123,6 +121,55 @@
 /* Tablet Design */
 @media (max-width: 768px) and (min-width: 480px) {
 
+.career-header {
+display: grid;
+align-content: center;
+text-align: center;
+
+}
+
+
+.portfolio {
+    display: none;
+}
+
+
+.career-about {background-image: url(/Images/Portfolio-face-half.png);
+    background-repeat: no-repeat;
+    background-size: 400px auto;
+    background-position-x: right;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    display: grid;
+    grid-template-rows: 400px;
+
+}
+
+#career-head-text {
+    font-size: 80px;
+}
+
+
+.career-list{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    grid-row: 1 / span 4;
+}
+
+
+    .career-history{
+        display: grid;
+        margin-right: 15px;
+        margin-left:15px;
+        margin-top: 8%;
+        grid-template-columns: 15% 85%;
+    }
+
+    #resume-infographic {
+        height: 250px;
+        width: auto;
+    }
 
 }
 
@@ -132,22 +179,171 @@
 /* Laptop Desgin */
 @media (max-width: 900px) and (min-width: 768px) {
 
+    .career-header {
+        display: grid;
+        align-content: center;
+        text-align: center;
+        
+        }
+        
+        
+        
+        .portfolio {
+            display: none;
+        }
+        
+        
+        .career-about {background-image: url(/Images/Portfolio-face-half.png);
+            background-repeat: no-repeat;
+            background-size: 400px auto;
+            background-position-x: right;
+            display: grid;
+            grid-template-rows: 400px;
+            display: grid;
+            grid-template-columns: 60% 40%;
+        
+        }
+    
+        
+        #career-head-text {
+            font-size: 80px;
+        }
+        
+        
+        .career-list{
+            display: grid;
+            align-content: center;
+            justify-content: center;
+            grid-row: 1 / span 4;
+        }
+        
+        
+            .career-history{
+                display: grid;
+                margin-right: 15px;
+                margin-left:15px;
+                margin-top: 8%;
+                grid-template-columns: 15% 85%;
+            }
+        
+            #resume-infographic {
+                height: 250px;
+                width: auto;
+            }
 
 }
 
 
-
+/* Laptop large des Desgin */
 
 @media (max-width: 1025px) and (min-width: 900px) {
 
+    .career-header {
+        display: grid;
+        align-content: center;
+        text-align: center;
+        
+        }
+         
+        .portfolio {
+            display: none;
+        }
+        
+        
+        .career-about {background-image: url(/Images/Portfolio-face-half.png);
+            background-repeat: no-repeat;
+            background-size: 450px auto;
+            background-position-x: right;
+            display: grid;
+            grid-template-columns: 70% 30%;
+            grid-template-rows: 400px;
+        
+        }
+
+        
+        
+        #career-head-text {
+            font-size: 130px;
+        }
+        
+        .career-list{
+            display: grid;
+            align-content: center;
+            justify-content: center;
+            grid-row: 1 / span 4;
+        }
+        
+        
+            .career-history{
+                display: grid;
+                margin-right: 15px;
+                margin-left:15px;
+                margin-top: 8%;
+                grid-template-columns: 15% 85%;
+            }
+        
+            #resume-infographic {
+                height: 250px;
+                width: auto;
+            }
 
 }
 
 
+/* Large (TV) Desgin */
 
+@media (min-width: 1025px) {
 
-@media (max-width: 1440px) and (min-width: 1025px) {
+    .career-header {
+        display: grid;
+        align-content: center;
+        text-align: center;
+        
+        }
+        
+        
+        
+        .portfolio {
+            display: none;
+        }
+        
+        
+        .career-about {background-image: url(/Images/Portfolio-face-half.png);
+            background-repeat: no-repeat;
+            background-size: 400px auto;
+            background-position-x: right;
+            display: grid;
+            grid-template-rows: 400px;
+            display: grid;
+            grid-template-columns: 60% 40%;
+        
+        }
+        
+        
+        #career-head-text {
+            font-size: 150px;
+        }     
 
+        .career-list{
+            display: grid;
+            align-content: center;
+            justify-content: center;
+            grid-row: 1 / span 4;
+        }
+               
+        
+        .career-history{
+                display: grid;
+                margin-right: 15px;
+                margin-left:15px;
+                margin-top: 8%;
+                grid-template-columns: 15% 85%;
+            }
+        
+            #resume-infographic {
+                height: 250px;
+                width: auto;
+            }
 
 
 }
