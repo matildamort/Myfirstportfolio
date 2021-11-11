@@ -1,4 +1,6 @@
-
+div {
+  border: red solid 1px;
+}
 
 body {
   background-color: rgb(0, 0, 0);
@@ -32,6 +34,7 @@ h3 {
   font-style: normal;
   color: rgb(255, 255, 255);
   margin:0;
+  font-size: 25;
 }
 
 h4 {   
@@ -40,7 +43,7 @@ h4 {
   font-style: normal;
   color: rgb(255, 255, 255);
   margin:0;
-  font-size: 30px;
+  font-size: 20px;
 
 }
   
@@ -51,7 +54,7 @@ p {
   font-style: normal;
   color: rgb(252, 252, 252);
   margin:0;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 a {
