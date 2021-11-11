@@ -197,12 +197,7 @@ margin-right: 5%;
 
 .what-do-text {
 display: grid;
-vertical-align: middle;
-justify-self: center;
-text-justify: center;
-padding-right: 10%;
-padding-left: 10%;
-padding-bottom: 15%;
+align-content: center;
 
 }
 
