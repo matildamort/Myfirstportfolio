@@ -8,20 +8,19 @@
 #sample-pic {
     max-width: 100%;
     max-height: 100%;
-   
-    width: auto;
     display: flex;
 }
 
 .sample-intro {
     display: grid;
     grid-template-columns: 1fr;
-    padding:5%;
+    padding-left:5%;
+    padding-right: 5%;
     margin-bottom: 10%;
     text-align: center;
     margin-left: 0.5%;
     margin-right: 0.5%;
-    margin-top: 5%;
+    margin-top: 1%;
     justify-items: center;
 }
 
@@ -43,6 +42,11 @@
 
 }
 
+.port-intro-text {
+padding-left: 10%;
+padding-right: 10%;
+
+}
 
 .port-one {
     display: grid;
@@ -73,6 +77,12 @@
     .port-head {
     padding: 10px;
     }
+
+    .port-intro-text {
+        padding-left: 5%;
+        padding-right: 5%;
+        
+        }
 
 }
 
