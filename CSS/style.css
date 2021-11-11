@@ -1,8 +1,4 @@
-div {
 
-  border: 1px red solid;
-  
-}
 
 body {
   background-color: rgb(0, 0, 0);
@@ -124,8 +120,9 @@ list-style: none;
 
 
 
-.toggle-menu {
+.toggle-button {
 position: absolute;
+display: flex;
 top: .75rem;
 right: 1rem;
 display: none;
@@ -136,7 +133,7 @@ height: 21px;
 color: white;
 }
 
-.toggle-menu .bar {
+.toggle-button .bar {
   height: 3px;
   width: 100%;
   background-color: white;
@@ -178,7 +175,6 @@ align-content: center;
 
 .grid-container-what-do { 
 display: grid;
-border: 5px solid blue;
 grid-template-columns: 45% 55%;
 margin-top: 10px;
 }
@@ -201,7 +197,6 @@ display: grid;
 grid-template-columns: repeat(2, 50%);
 margin-top: 10%;
 margin-bottom: 10%;
-/*border: blueviolet; */
 }
 
 .skills-flex {
@@ -256,10 +251,7 @@ margin-bottom: 2%;
 
 
 @media (max-width: 480px) {
-  .toggle-menu {
-    display: flex;
-    Padding-top: 10px;
-  }
+
 
   h1 {
     font-size: 30px;
@@ -284,7 +276,6 @@ margin-bottom: 2%;
 
   .grid-container-what-do { 
     display: grid;
-    border: 5px solid blue;
     grid-template-columns: 45% 55%;
     margin-top: 10px;
     }
@@ -296,36 +287,36 @@ margin-bottom: 2%;
       display: grid;
      }
 
+     .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .toggle-button {
+      display: flex;
+      margin-top: 8px;
+  }
 
   .navbar-links {
-    width:100%;
-    display: none;
-  }
-
-  .navbar-links .menu {
-    display: none;
-
-  }
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start; 
+      display: none;
+      width: 100%;
   }
 
   .navbar-links ul {
-    width: 100%;
-    flex-direction: column;
+      width: 100%;
+      flex-direction: column;
   }
 
-  .navbar-links li {
-    text-align: center;
-  }
-  
-  .navbar-links li a {
-    padding: .5rem 1rem;
+  .navbar-links ul li {
+      text-align: center;
   }
 
-  .navbar-links .active {
-    display: flex;
+  .navbar-links ul li a {
+      padding: .5rem 1rem;
+  }
+
+  .navbar-links.active {
+      display: flex;
   }
 
   .logo {
@@ -337,7 +328,6 @@ margin-bottom: 2%;
 
   .grid-container-1 {
   display: grid;
-  border: 5px solid green;
   grid-template-columns: 100%;
   
 }
@@ -365,42 +355,36 @@ margin-bottom: 2%;
 /* Tablet Design */
 @media (max-width: 768px) and (min-width: 480px) {
 
-  .toggle-menu {
-    display: flex;
-    padding-top: 20px;
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+  .toggle-button {
+      display: flex;
+      padding-top: 15px;
   }
 
   .navbar-links {
-    width:100%;
-    display: none;
-  }
-
-  .navbar-links .menu {
-    display: none;
-
-  }
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start; 
-    height: 80px;
-    margin-bottom: 20px;
+      display: none;
+      width: 100%;
   }
 
   .navbar-links ul {
-    width: 100%;
-    flex-direction: column;
+      width: 100%;
+      flex-direction: column;
   }
 
-  .navbar-links li {
-    text-align: center;
-  }
-  
-  .navbar-links li a {
-    padding: .5rem 1rem;
+  .navbar-links ul li {
+      text-align: center;
   }
 
-  .navbar-links .active {
-    display: flex;
+  .navbar-links ul li a {
+      padding: .5rem 1rem;
+  }
+
+  .navbar-links.active {
+      display: flex;
   }
 
   
@@ -410,7 +394,6 @@ margin-bottom: 2%;
 
   .grid-container-what-do { 
     display: grid;
-    border: 5px solid blue;
     grid-template-columns: 45% 55%;
     margin-top: 10px;
     }
@@ -426,9 +409,7 @@ margin-bottom: 2%;
 
   .grid-container-skills {
     display: grid;
-    grid-template-columns: repeat(6, 16.6%);
-    border: blueviolet;
-    }
+    grid-template-columns: repeat(6, 16.6%);    }
 
     .footer-nav-block{
       display: grid;
@@ -459,7 +440,6 @@ margin-bottom: 2%;
 .grid-container-skills {
   display: grid;
   grid-template-columns: repeat(6, 16.6%);
-  border: blueviolet;
   }
   .footer-nav-block{
     display: grid;
@@ -480,7 +460,6 @@ margin-bottom: 2%;
 
     .grid-container-what-do { 
       display: grid;
-      border: 5px solid blue;
       grid-template-columns: 40% 20% 40%;
       margin-top: 10px;
       }
