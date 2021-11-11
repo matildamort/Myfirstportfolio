@@ -1,4 +1,6 @@
-
+div {
+  border: red solid 1px;
+}
 
 body {
   background-color: rgb(0, 0, 0);
@@ -170,23 +172,23 @@ color: white;
 
 .what-do-icon-div {
   display: grid;
-  justify-content: center;
   align-items: center;
-  margin: 10%; 
+  justify-content: center;
 
 }
-
-
 
 .grid-container-what-do { 
 display: grid;
 grid-template-columns: 45% 55%;
 margin-top: 10px;
+margin-left: 5%;
+margin-right: 5%;
+
 }
 
 #what-do-icon {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 80%;
+  max-height:80%;
   display: flex;
   margin-left: auto;
   
@@ -198,6 +200,7 @@ vertical-align: middle;
 justify-self: center;
 text-justify: center;
 padding-right: 10%;
+padding-left: 10%;
 padding-bottom: 15%;
 
 }
@@ -213,11 +216,12 @@ margin-bottom: 10%;
   display: grid;
   justify-content: center;
   text-align: center;
+  justify-items: center;
 }
 
 
 #skills {
-  height: 100px;
+  max-width: 80%;
 }
 
 
@@ -228,6 +232,7 @@ margin-bottom: 10%;
       display: grid;
       margin-bottom: 15%;
       padding: 5%;
+
       
      }
 
@@ -338,12 +343,22 @@ margin-bottom: 2%;
   grid-template-columns: 100%;
   
 }
+
+.grid-container-what-do { 
+  margin-left: 2%;
+  margin-right: 2%;
+  
+  }
 .footer-col{
   width: 100%;
 }
 
  #port-pic {
   height: 150px;
+}
+
+#skills {
+  max-width: 60%;
 }
 
 .socials {
@@ -399,9 +414,15 @@ margin-bottom: 2%;
     height: 300px;
   }
 
-  .grid-container-skills {
-    display: grid;
-    grid-template-columns: repeat(6, 16.6%);    }
+
+    #skills {
+      max-width: 50%;
+    }
+    
+
+    .skills-flex h2{
+      font-size: 20px;
+    }
 
     .footer-nav-block{
       display: grid;
@@ -452,7 +473,7 @@ margin-bottom: 2%;
 }
 
 /* Desktop design 1025 */
-@media (max-width: 1025px) and (min-width: 900px){
+@media (min-width: 900px){
 
   #port-pic {
     height: 400px;
@@ -484,47 +505,4 @@ margin-bottom: 2%;
         margin-top: 50px;
       }
 
-
-
-/* Extra large screen, TV */
-@media (min-width: 1025px) {
-
-  #port-pic {
-    height: 450px;
-  }
-
-  .grid-container-skills {
-    display: grid;
-    grid-template-columns: repeat(6, 16.6%);
     }
-
-    .footer-nav-block{
-      display: grid;
-      grid-template-columns: repeat(5, 20%);
-      }
-
-      .socials {
-        display:grid;
-        grid-template-columns: repeat(6, 80px);
-        justify-content: center;
-      }
-
-      #top-logo {
-        height: 80px;
-        width: auto;
-      
-      }
-
-      .footer-nav-block {
-        margin-top: 50px;
-      }
-
-
-        .what-do-info-text {
-          grid-row: 1 /span 4;
-          text-align: left;
-          padding: 10% 5%;
-          align-content: center;
-          display: grid;
-         }
-}
