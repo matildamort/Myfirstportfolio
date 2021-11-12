@@ -5,6 +5,7 @@
 
 .blog-one{
     background-color: ivory;
+    opacity: 80%;
     margin: 5%;
     padding: 2%;
     display: grid;
@@ -15,6 +16,7 @@
 
 .blog-two {
     background-color: ivory;
+    opacity: 80%;
     margin: 5%;
     padding: 2%;
     display: grid;
