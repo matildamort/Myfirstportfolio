@@ -4,7 +4,7 @@ https://mystifying-cray-6ea88a.netlify.app/index.html
 
 
 # GitHub Rep 
-PUT HERE
+https://github.com/MatildaMortonCode/M-M-Portfolio
 
 # Project Purpose
 Project is a creation and first coded website to showcase skills and abilities of both coding skills and design skills to a potential employer. It allows for direct immediate contact with myself through Facebook messanger chat and also contact through various social media channels. 
@@ -22,9 +22,11 @@ The target audience for this piece is potential employers and recruiters.
 
  Note: All imagery in this website is Licenced material from Envato Elements. Imagery cannot be re-used or re-distributed outside of this website design. 
 
-
+# Features
+This website functions as a portfolio website and provides insight into Matilda Morton, it also features ability to instant contact.
 
 # Sitemap
+![.Site-map.png] (Sitemap)
 
 
 
