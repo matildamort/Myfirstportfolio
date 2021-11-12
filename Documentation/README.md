@@ -1,28 +1,31 @@
 # Final link output
 
-https ect ect 
+https://mystifying-cray-6ea88a.netlify.app/index.html
 
 
 # GitHub Rep 
 PUT HERE
 
 # Project Purpose
-Project is a creation and first coded website to showcase skills and abilities
+Project is a creation and first coded website to showcase skills and abilities of both coding skills and design skills to a potential employer. It allows for direct immediate contact with myself through Facebook messanger chat and also contact through various social media channels. 
 
 # Target Audience
-
+The target audience for this piece is potential employers and recruiters.
 
 # Tech stack
- - Website uses modible first design with CSS grid
- - Small Java.js is used to support custom navigation bar breakpoint
+ - Website uses mobile first design with CSS grid
+ - Small Javascript is used to support custom navigation bar breakpoint
+ - Facebook Messanger JavaScript used
  - HTML
  - CSS
- - Java.js
+
 
  Note: All imagery in this website is Licenced material from Envato Elements. Imagery cannot be re-used or re-distributed outside of this website design. 
 
 
 
 # Sitemap
+
+
 
 # Screenshots

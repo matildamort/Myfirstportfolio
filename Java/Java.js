@@ -1,3 +1,5 @@
+/* Mobile hanburger menu */
+
 const toggleButton = document.getElementsByClassName('toggle-button')[0]
 const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
@@ -5,6 +7,8 @@ toggleButton.addEventListener('click', () => {
   navbarLinks.classList.toggle('active')
 })
 
+
+/* Facbook messager*/
 var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "110694221425486");
   chatbox.setAttribute("attribution", "biz_inbox");
