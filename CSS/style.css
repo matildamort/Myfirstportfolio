@@ -242,7 +242,7 @@ footer {
   display: grid;
   grid-template-columns: repeat(2);
   margin-top: 10px;
-  margin-bottom: 25%;
+  margin-bottom: 100px;
 }
 
 .footer {
