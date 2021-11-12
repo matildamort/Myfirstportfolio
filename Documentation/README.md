@@ -32,5 +32,7 @@ This website functions as a portfolio website and provides insight into Matilda 
 
 
 # Site Screenshots
-![Sitemap](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-top-section.png)
+![About first section](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-top-section.png)
+
+![About second section of page showing soft skills](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-second-section.png)
 
