@@ -1,7 +1,6 @@
 .blog-head {
-    display: flexbox;
-    grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
 }
 
 .blog-one{
@@ -10,6 +9,21 @@
     padding: 2%;
     display: grid;
     max-width: 100%;
+    grid-column: span 2;
+    
+}
+
+.blog-two {
+    background-color: ivory;
+    margin: 5%;
+    padding: 2%;
+    display: grid;
+    max-width: 100%;
+    
+}
+
+.blog-head h4 {
+    color: black;
 }
 
 .blog-head h1 {
@@ -24,4 +38,16 @@
 max-width: 70%;
 height: auto;
 margin-bottom: 3%;
+margin-top:3%
+}
+
+
+@media (max-width: 480px) {
+
+    .blog-head {
+        display: flexbox;
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: 1fr;
+    }
+
 }
