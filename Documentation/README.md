@@ -31,8 +31,32 @@ This website functions as a portfolio website and provides insight into Matilda 
 
 
 
-# Site Screenshots
+# Site Screenshots - Design elements
+![Rainbow gradient moodboard](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Mood-board-1.png)
+
+![Header deisgn of webpage](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Head-navigation.png)
+
+![Footer deisgn of webpage](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Footer.png)
+
+
+# index about page 
+
 ![About first section](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-top-section.png)
 
 ![About second section of page showing soft skills](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-second-section.png)
+
+![About second section of page showing technical skills](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/About-skills.png)
+
+# Portfolio
+
+![Prtfolio shoing top image. Image dispays three devices with sample images ine ach device](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Portfolio.png)
+
+# Career
+[Portfolio showing top image. Image dispays three devices with sample images ine ach device](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Career-topo.png)
+
+# Blog
+
+[Blog top of website, showing large blog tile](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Blog-top.png)
+
+[Blog middle of website showing, doubel card blog area](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Blog-bottom.png)
 
