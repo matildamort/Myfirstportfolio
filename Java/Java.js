@@ -5,7 +5,6 @@ toggleButton.addEventListener('click', () => {
   navbarLinks.classList.toggle('active')
 })
 
-
 var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "110694221425486");
   chatbox.setAttribute("attribution", "biz_inbox");
