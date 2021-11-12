@@ -26,7 +26,7 @@ The target audience for this piece is potential employers and recruiters.
 This website functions as a portfolio website and provides insight into Matilda Morton, it also features ability to instant contact.
 
 # Sitemap
-![https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Read-me-sitemap.png] (Sitemap)
+![Sitemap](https://github.com/MatildaMortonCode/M-M-Portfolio/blob/main/Documentation/Read-me-sitemap.png)
 
 
 
