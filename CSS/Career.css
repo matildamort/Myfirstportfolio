@@ -22,9 +22,7 @@
 
 
 .resume-button {
-  
   border: none;
-  color: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -36,8 +34,9 @@
   background-image: url(/Images/granient-pink-swatch.jpg);
   background-repeat: no-repeat;
   border-radius: 12px;
-    
+  color:white; 
 }
+
 
 
 .resume {
@@ -46,6 +45,10 @@
     display: grid;
     margin-bottom: 0%;
     align-content: center;
+}
+
+.resume a { 
+    width: 90px;
 }
 
 .career-list-text {

@@ -3,7 +3,7 @@
     grid-template-columns: repeat(2, 50%);
 }
 
-.blog-one{
+.blog-one {
     background-color: ivory;
     opacity: 80%;
     margin: 5%;
@@ -36,20 +36,61 @@
     color:black
 }
 
-#blog-img-1 {
+
+.blog-two img {
 max-width: 70%;
 height: auto;
 margin-bottom: 3%;
 margin-top:3%
+
 }
 
+.blog-one img {
+    max-width: 70%;
+    height: auto;
+    margin-bottom: 3%;
+    margin-top:3%
+    
+    }
+    
 
 @media (max-width: 480px) {
-
     .blog-head {
         display: flexbox;
-        grid-template-rows: repeat(3, 1fr);
+        grid-template-rows: repeat(5, 1fr);
         grid-template-columns: 1fr;
     }
 
+    .blog-one {
+        grid-column: span 1;
+    }
+}
+
+/* Tablet Design */
+@media (max-width: 768px) and (min-width: 480px) {
+    .blog-head {
+        display: flexbox;
+        grid-template-rows: repeat(5, 1fr);
+        grid-template-columns: 1fr;
+    }
+
+    .blog-one {
+        grid-column: span 1;
+    }
+}
+
+@media (max-width: 900px) and (min-width: 768px) {
+
+    .blog-one {
+        grid-column: span 2;
+        
+    }
+}
+
+@media (min-width: 900px) {
+
+    .blog-one {
+        grid-column: span 2;
+        
+    }
 }
