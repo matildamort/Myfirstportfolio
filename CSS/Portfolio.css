@@ -16,7 +16,6 @@
     grid-template-columns: 1fr;
     padding-left:5%;
     padding-right: 5%;
-    margin-bottom: 10%;
     text-align: center;
     margin-left: 0.5%;
     margin-right: 0.5%;
@@ -49,20 +48,19 @@ padding-right: 10%;
 }
 
 .port-one {
-    display: grid;
+    display: flex;
     justify-items: center;
     align-items: center;
     overflow: hidden;
+
     }
 
 .port-one img {
     width: 100%;
     height: auto;
+    overflow: hidden;
+    flex-shrink: 0;
 }   
-.port-two {
-    display: grid;
-    justify-items: center;
-        }
 
 .port-three {
     display: flex;
