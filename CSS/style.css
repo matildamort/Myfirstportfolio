@@ -156,9 +156,11 @@ color: white;
 .grid-container-1 {
   display: grid;
   grid-template-rows:1;
-  background-image: url(/Images/Background-1.png);
-  background-repeat: repeat-x;
-  margin-bottom: 15%;
+  background-image: url(/Images/311-07-blue-purple-grunge-neon.png);
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding-bottom: 10%;
+  padding-top: 10%;
 }
 
 
