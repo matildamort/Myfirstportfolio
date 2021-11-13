@@ -1,0 +1,401 @@
+commit 62f1f39ec4733dad34092adae3d87ae8b0592800
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 09:01:58 2021 +1000
+
+    added to Read me imagery
+
+commit 8cbc98f939ff62773a98544530bcba80fda19b25
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:48:38 2021 +1000
+
+    added to Read me imagery
+
+commit f77b0dc0d6559eae44abc965d740f3657155b0b0
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:44:47 2021 +1000
+
+    added to Read me imagery
+
+commit c674ce39b3674183446df0632e0341d0cb04ba4f
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:42:26 2021 +1000
+
+    added to Read me imagery
+
+commit 6a4bd7eab29095b5c75258b2e72994fc907fa1b3
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:31:20 2021 +1000
+
+    added to Read me imagery
+
+commit 0c8f733112e7112b4eb76f4bb94f8a28f2ab4925
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:12:15 2021 +1000
+
+    added sitemap to readme
+
+commit da879d765871bf47279b3f48a54548ef0f042b6a
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:10:08 2021 +1000
+
+    added sitemap to readme
+
+commit d3c94fb96bf1ab38e02336a84b95dde803b0c650
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 08:08:17 2021 +1000
+
+    added Readme sitemap test
+
+commit 5ba7bcbea4b4e8a07db69924229b5d9fb160913d
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 07:59:04 2021 +1000
+
+    fixed duplicate ID tags and other W3 errors
+
+commit a6b7ae478e65e1dc31a09d0d76c55b4c9da37afb
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 07:10:36 2021 +1000
+
+    fixed errors highlighted in W3 validator
+
+commit 1eeb7081f2a6c0445acd2227cb0d8ef3baa8615e
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 07:05:25 2021 +1000
+
+    Removed repeated ID's and used classes to adjust CSS
+
+commit 61aa6b7ec3d30f4d627a860ebf7108cb33289287
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 06:22:59 2021 +1000
+
+    added all alt tage to imagers
+
+commit a30c1f2844d028e88261cf9868b7c527b78cd5e2
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 06:18:06 2021 +1000
+
+    added descriptive alt tags throughtout index, changed opacity of blog to allow view of background image
+
+commit 8510c47c0b94e2dedad99e7e79b85caf251c4283
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 13 06:00:37 2021 +1000
+
+    adjusted desktop layout of blog page. Updated all alt descriptions in blog page
+
+commit 45cb0931570ee4001244170f469ffbb388d821dd
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 19:44:51 2021 +1000
+
+    played around with background images -to be removed
+
+commit b538685223bd8d63b27aefb7ba90a7362b87546a
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 18:00:31 2021 +1000
+
+    added FB chat - added all html pages
+
+commit 7d2f80dcb316da6a70215a09411f24af12add181
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 17:55:15 2021 +1000
+
+    added FB chat - testing 3
+
+commit 1215af062756d9c5ba265cf69a507518c29a3e9b
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 17:46:15 2021 +1000
+
+    added FB chat - testing 2
+
+commit 1b1d3199fb90181961dd32756a46f39b8705994e
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 17:44:11 2021 +1000
+
+    added FB chat - testing 1
+
+commit 2d95b828ac5f8c4544038d1f3eee53f95b30631b
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 17:38:32 2021 +1000
+
+    added FB messanger live chat
+
+commit d5f1f97b0af0e7a573a89409613f622f6bd2ecb3
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 16:12:34 2021 +1000
+
+    ewmoved live chat -issues with font colour
+
+commit 1c0cde7135c40681518325e4b307fb3d8752f8db
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 16:07:11 2021 +1000
+
+    added live chat script
+
+commit d5cdb2caff15411d377ee8f99c29181d27b85733
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:47:33 2021 +1000
+
+    added more space bottom of footer
+
+commit 016d9ea888135bf237976093bb7dacd0b8c28448
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:46:20 2021 +1000
+
+    added more space bottom of footer
+
+commit 504a8e8cd5abae1ea51b4ea15997e6ee8f4188f5
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:45:01 2021 +1000
+
+    adding spacing at bottom of footer
+
+commit 5fc6cb863e8e92b41aae7cb39c1963fc1677f501
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:41:28 2021 +1000
+
+    Added live chat function
+
+commit 725dfba307fe87b44fd726fe5f14770d8ad47d79
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:10:11 2021 +1000
+
+    adjusted font size on index
+
+commit ade49b9b93dfb76912f8513462b55eb9a13ca8a1
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 15:01:21 2021 +1000
+
+    adjusted image size on blog page
+
+commit f327be9171aedbf3ed7c719abb4b11923a0bc64c
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 11:26:39 2021 +1000
+
+    added skills icons
+
+commit 47b00fb593d2b40170d61ebff3ecedf11495fb27
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 10:23:47 2021 +1000
+
+    font increase
+
+commit 74c99b6d69b76bf7f8ac51c8428d931bab2ede31
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 10:22:06 2021 +1000
+
+    font increase desktop
+
+commit 00b7681848e4c6e7e6d35bf50afa61009512ac7c
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 10:20:06 2021 +1000
+
+    font size p increase
+
+commit 056fad27963a7d0d2d678cd7797185a0bda5a916
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 10:18:07 2021 +1000
+
+    styling changes
+
+commit faebdcb662299da8fc847a6132b8ab667e779b99
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 06:57:59 2021 +1000
+
+    bug fix - missing java script on other html heads
+
+commit 84109d3a27c23f4afaf867f2b8ebe6e0606f4dbf
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 06:55:55 2021 +1000
+
+    bug fix header
+
+commit dc0ba546dee8a27d27012aa19192a90dc54c0e72
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 12 05:21:17 2021 +1000
+
+    added final images to portfolio section. Adjusted font sizing to be smaller
+
+commit eaf4d6b62a4547bf13dc003687f3a8445063bd41
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 21:05:07 2021 +1000
+
+    added imagery into documentation folder
+
+commit 74f7444a9d0aa895e3c9da7581f02a0aa6da85f7
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 17:10:19 2021 +1000
+
+    added imagery of dample, adjusted layout to he rowns on top and not columns
+
+commit a011e8163ebf734a73dc67c8e6e718372df5aebe
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 16:20:20 2021 +1000
+
+    further styling on Index CSS. Adjustments made to images to be more responsive. Added max-width and added different percentages based on device size
+
+commit f0b99ff97ca8be48b4758cfba10b9382af0d4649
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 15:46:27 2021 +1000
+
+    adjust CSS index - redesign grid
+
+commit 839a0e770157e0364efb7937cb422cc47c4f95f7
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 12:51:14 2021 +1000
+
+    added image intro screens
+
+commit 54327b624fd175f5bb45d0178d35fb81d3c92063
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 11 12:04:23 2021 +1000
+
+    Fixed Navbar error
+
+commit b114136cd040fc0a788d4442935862f08472a0e5
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 21:12:09 2021 +1000
+
+    added blog using flexbox-not grid
+
+commit 7d1ab4276dd83071e5e247170f89ab1548676bdb
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 20:34:46 2021 +1000
+
+    Added additional portfolio files - adjusted porftolio grid and image responsive.
+
+commit 18e0c412c867464863bffee0fdba36cdb7667db2
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 19:06:48 2021 +1000
+
+    further styling to porfolio page for mobile only
+
+commit 42920caefa9b03370d9089d16d438d932c5c3466
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 18:33:58 2021 +1000
+
+    started adding grid blacks to portfolio page. creating CSS mobile first
+
+commit a4643ef7ec4b9f1d9674deb980ba2cd4245899d5
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 16:59:56 2021 +1000
+
+    added CyberEcho sample project
+
+commit fc436333509db989b16668ed55d17c26d2236945
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 16:52:43 2021 +1000
+
+    Added Instructional design sample projects
+
+commit 5a8a9a38e80cef910ae1790a9f0e912f3f725ce6
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 13:35:31 2021 +1000
+
+    further adjusted career page styling. Started Portfolio outline
+
+commit fce84cb6ce5fdfd06309b441e1200929ef349f4c
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 12:25:33 2021 +1000
+
+    adjusted tablet, laptop and desktop sizng of imagery and fonts
+
+commit 0d2b61dbca75d14034dd4aea259158029e63056e
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 07:07:52 2021 +1000
+
+    moved html files from folder
+
+commit 7f731c2e018e320db64010f093547ed29a0dc8a4
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 06:56:07 2021 +1000
+
+    moved presentation to documents
+
+commit 40be2fdcca24b69ac94af7d1cac5edce79296c87
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Sat Nov 6 06:43:01 2021 +1000
+
+    Asjusted download resume alignment- mobile only
+
+commit e581372f485739203c6af3ac320927ebc4fc4672
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 19:57:36 2021 +1000
+
+    Updated career CSS, added button to resume, added placeholder resime image
+
+commit 973b7281d5fb97373cd22075c4d1f1c21f801d6f
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 17:29:41 2021 +1000
+
+    Adjusted Career styling
+
+commit 85caad083dccd67487356f8f686ea2a7854a8982
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 16:46:41 2021 +1000
+
+    Formatted timeline with timeloine bar on side. Grid block working on movile, unhappy with timeline as an image, time permits, to be adjsuted to code
+
+commit bcb9fd727d9583997deeff525340707e3e18b35f
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 15:12:31 2021 +1000
+
+    Started career timeline, created grid outline mobile only
+
+commit 63bae315f01471ca3b5b9264e659935535aa52f8
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 13:20:41 2021 +1000
+
+    CStarted Career page - Added existing Header & Footer - Added first Div section
+
+commit 270109b8fcf490cbd2fe5998762d1db6ee890b8c
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Fri Nov 5 10:40:01 2021 +1000
+
+    updated header logo, adjusted paddings. Changed social handles to SVG.
+
+commit 67baae328e37bfd6945be29fa9bad1c562572011
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 18:30:21 2021 +1000
+
+    Ajusted responsive design on What do section
+
+commit 5b528fc86728e2e5406781b59eb069ac22a460a3
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 17:21:33 2021 +1000
+
+    Added footer iconography
+
+commit dcca515b1c0f5353bf2a86c5f5cd7c44f85e1b91
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 12:11:42 2021 +1000
+
+    index top image breakpoint displays
+
+commit c71d5be2d64c9a7b70b26120ad7fdd0bb22f7b1e
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 10:35:40 2021 +1000
+
+    Added footer layout
+
+commit 55d05c58c864e4edb494a4c819fd697961eaeca9
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 08:01:35 2021 +1000
+
+    added start of footer
+
+commit 2693b29dc9c11a82358570d0f6c3df8b57661897
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Thu Nov 4 07:49:29 2021 +1000
+
+    Updated Readme, set out plan
+
+commit a727995b283d87e10a42c383a7a8c3cf3fb2caa9
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Tue Nov 2 21:22:52 2021 +1000
+
+    updated REad Me and added comments in CSS/HTML
+
+commit 5b29466770e23c622599c3319f17b8282d8ab836
+Author: MatildaMortonCode <gcab022125@coderacademy.edu.au>
+Date:   Tue Nov 2 21:08:20 2021 +1000
+
+    commit error fix
